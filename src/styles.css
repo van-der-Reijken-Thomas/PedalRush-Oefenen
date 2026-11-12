@@ -1,0 +1,17 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  padding: 2rem;
+}
+
+#menu ul {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+}
+
+footer {
+  margin-top: 3rem;
+  color: #556368;
+}
